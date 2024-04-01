@@ -1,0 +1,28 @@
+#output {
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid #AA4465;
+}
+body{
+    background-color: chartreuse;
+}
+#player1_name{
+color: chocolate;
+font-size: 15px;
+padding: 15px;
+}
+#player2_name{
+color: chocolate;
+font-size: 15px;
+padding: 15px;
+}
+#player1_score{
+color: chocolate;
+font-size: 15px;
+padding: 15px;
+}
+#player2_score{
+color: chocolate;
+font-size: 15px;
+padding: 15px;
+}

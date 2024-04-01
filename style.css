@@ -1,0 +1,27 @@
+body {
+    background-color:greenyellow;
+    align-content: center;
+}
+h3 {
+    text-align: center;
+    color:green;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+}
+label {
+    color:green; 
+}
+div {
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+        align-items: center;
+        background-color: wheat;
+}
+button {
+    background-color: wheat;
+    color: green;
+    border-radius: 25px;
+    width: 15px;
+    height: 30px;
+    
+}
